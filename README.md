@@ -1,1 +1,13 @@
-# reactSeminarIntl
+## reactSeminarIntl
+
+### Как запустить
+
+1) Установить все необходимые зависимости:
+    ```
+    npm install
+    ```
+
+2) Запустить фронтенд сервер:
+    ```
+    npm run start
+    ```
